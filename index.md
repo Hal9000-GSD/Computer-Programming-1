@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Wlelcome to Ian Miller's Computer programing 1 Portfolio
 
 You can use the [editor on GitHub](https://github.com/Hal9000-GSD/Computer-Programming-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
