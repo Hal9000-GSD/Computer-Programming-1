@@ -1,5 +1,7 @@
 ## Wlelcome to Ian Miller's Computer programing 1 Portfolio
 
+Syntax highlighted code block
+
 ![Typing_test](https://github.com/Hal9000-GSD/Computer-Programming-1/blob/gh-pages/images/Screenshot%202020-08-27%20at%2007.58.39.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/Hal9000-GSD/Computer-Programming-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
